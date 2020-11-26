@@ -10,4 +10,5 @@ I committed to #100DaysOfCode, and I am taking a course to that effect on Udemy.
 * [A programm that performs like a ticketing office in an amusement park](https://repl.it/@A3AJAGBE/day-3-start)
 * [A program that interprets the Body Mass Index (BMI) based on a user's weight and heigh](https://repl.it/@A3AJAGBE/day-3-2-exercise)
 * [A program that checks if a given year is a leap year or not](https://repl.it/@A3AJAGBE/day-3-3-exercise)
+* [An automatic pizza order program](https://repl.it/@A3AJAGBE/day-3-4-exercise)
 
