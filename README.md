@@ -14,5 +14,6 @@ I committed to #100DaysOfCode, and I am taking a course to that effect on Udemy.
 * [A program that tests the compatibility of two people](https://repl.it/@A3AJAGBE/day-3-5-exercise)
 * [A virtual coin toss program](https://repl.it/@A3AJAGBE/day-4-1-exercise)
 * [Who is Paying? A program that selects a random name from a list of names](https://repl.it/@A3AJAGBE/day-4-2-exercise)
+* [A program that sum all the numbers in a certain range together](https://repl.it/@A3AJAGBE/day-5-start)
 
 
