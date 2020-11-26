@@ -18,6 +18,7 @@ I committed to #100DaysOfCode, and I am taking a course to that effect on Udemy.
 * [A program that calculates the average student height from a List of heights](https://repl.it/@A3AJAGBE/day-5-1-exercise)
 * [A program that calculates the highest score from a List of scores](https://repl.it/@A3AJAGBE/day-5-2-exercise)
 * [A program that calculates the sum of all the even numbers from 1 to 100](https://repl.it/@A3AJAGBE/day-5-3-exercise)
+* [A program that automatically prints the solution to the FizzBuzz game](https://repl.it/@A3AJAGBE/day-5-4-exercise)
 
 
 
