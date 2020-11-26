@@ -7,3 +7,5 @@ I committed to #100DaysOfCode, and I am taking a course to that effect on Udemy.
 * [A program that calculates the Body Mass Index (BMI) from a user's weight and height](https://repl.it/@A3AJAGBE/day-2-2-exercise)
 * [A program that calculates the days, weeks, months left until a user is 90 years old](https://repl.it/@A3AJAGBE/day-2-3-exercise)
 * [A program that checks if a number is Even or Odd](https://repl.it/@A3AJAGBE/day-3-1-exercise)
+* [A programm that performs like a ticketing office in an amusement park](https://repl.it/@A3AJAGBE/day-3-start)
+* [A program that interprets the Body Mass Index (BMI) based on a user's weight and heigh](https://repl.it/@A3AJAGBE/day-3-2-exercise)
