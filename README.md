@@ -21,5 +21,7 @@ I committed to #100DaysOfCode, and I am taking a course to that effect on Udemy.
 * [A program that automatically prints the solution to the FizzBuzz game](https://repl.it/@A3AJAGBE/day-5-4-exercise)
 * [A function](https://repl.it/@A3AJAGBE/day-6-start)
 * [A program that calculates how many cans of paint to buy from the given height and width](https://repl.it/@A3AJAGBE/day-8-1-exercise)
+* [A function that checks if the given number is a prime number or not.](https://repl.it/@A3AJAGBE/day-8-2-exercise)
+* [A program that combines first name and last name](https://repl.it/@A3AJAGBE/day-10-start)
 
 
