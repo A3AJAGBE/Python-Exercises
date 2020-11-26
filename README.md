@@ -14,6 +14,10 @@ I committed to #100DaysOfCode, and I am taking a course to that effect on Udemy.
 * [A program that tests the compatibility of two people](https://repl.it/@A3AJAGBE/day-3-5-exercise)
 * [A virtual coin toss program](https://repl.it/@A3AJAGBE/day-4-1-exercise)
 * [Who is Paying? A program that selects a random name from a list of names](https://repl.it/@A3AJAGBE/day-4-2-exercise)
-* [A program that sum all the numbers in a certain range together](https://repl.it/@A3AJAGBE/day-5-start)
+* [A program that calculates the sum of all the numbers in a certain range](https://repl.it/@A3AJAGBE/day-5-start)
+* [A program that calculates the average student height from a List of heights](https://repl.it/@A3AJAGBE/day-5-1-exercise)
+* [A program that calculates the highest score from a List of scores](https://repl.it/@A3AJAGBE/day-5-2-exercise)
+* [A program that calculates the sum of all the even numbers from 1 to 100](https://repl.it/@A3AJAGBE/day-5-3-exercise)
+
 
 
