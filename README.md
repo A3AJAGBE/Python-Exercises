@@ -5,3 +5,4 @@ I committed to #100DaysOfCode, and I am taking a course to that effect on Udemy.
 * [How to format math question](https://repl.it/@A3AJAGBE/day-2-start)
 * [A program that adds the inputs of a 2 digit number](https://repl.it/@A3AJAGBE/day-2-1-exercise)
 * [A program that calculates the Body Mass Index (BMI) from a user's weight and height](https://repl.it/@A3AJAGBE/day-2-2-exercise)
+* [A program that calculates the days, weeks, months left until a user is 90 years old](https://repl.it/@A3AJAGBE/day-2-3-exercise)
