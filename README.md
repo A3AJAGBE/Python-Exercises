@@ -1,3 +1,5 @@
+# I won't be updating this repo, I couldn't commit to the pledge so I will be recommitting to the pledge. Check out 'Python100Days' in my repos for the new progress report.
+
 # 100 Days Of Code (Python)
 I committed to #100DaysOfCode, and I am taking a course to that effect on Udemy. Most of the completed projects are uploaded as a new repo while most of the exercises completed will be compiled here. 
 
